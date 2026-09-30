@@ -1,10 +1,12 @@
-# Hi, I'm Xiyao Ma
+# Hi, I'm Xiyao Ma — Melody
 
 I'm a Statistics undergraduate at the **National University of Singapore (NUS)**, with a second major in Economics. My hometown is **Beijing, China**.
 
+My English name is **Melody**. I chose the name because singing has been part of my life since childhood — I joined my school choir in preschool and continued singing in choirs in university.
+
 In Fall 2025, I spent a semester at **Cornell University** as an exchange student, where I further explored regression, econometrics, actuarial science, and quantitative modeling.
 
-My interests lie at the intersection of **applied statistics, machine learning, quantitative research, and financial data analysis**. I particularly enjoy projects that combine rigorous empirical evaluation with practical applications.
+My interests lie at the intersection of applied statistics, machine learning, quantitative research, and financial data analysis. I particularly enjoy projects that combine rigorous empirical evaluation with practical applications.
 
 ## Featured Projects
 
@@ -14,7 +16,7 @@ A research implementation for multi-scale equity-return forecasting using Daily 
 
 ### [NUS Datathon 2025 — Financial Advisor Matching & Ranking](https://github.com/melodymaxiyao/nus-datathon-2025-advisor-matching)
 
-**3rd Place, Advanced Category.** A multi-stage recommendation framework combining MCA, Gaussian Mixture Models, Random Forest classification, and XGBoost ranking to match clients with financial advisors.
+3rd Place, Advanced Category. A multi-stage recommendation framework combining MCA, Gaussian Mixture Models, Random Forest classification, and XGBoost ranking to match clients with financial advisors.
 
 ## Areas of Interest
 
